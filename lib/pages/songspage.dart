@@ -70,7 +70,7 @@ class _SongsPageState extends State<SongsPage> {
         ],
       ),
       floatingActionButton: FloatingActionButton(
-        heroTag: "btn1",
+        heroTag: "btn3",
         onPressed: () {
           Navigator.push(
             context,
