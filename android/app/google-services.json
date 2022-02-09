@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628964879189",
+    "project_id": "deardiary-d00da",
+    "storage_bucket": "deardiary-d00da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628964879189:android:57c304b82bb9e6f65d1ddc",
+        "android_client_info": {
+          "package_name": "com.example.deardiary_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628964879189-6kiquh1vao4d3vjtn7k3id8nf59jh2sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ao64Q7NTAD94NiPoGSFmKWbVdEhjwb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628964879189-6kiquh1vao4d3vjtn7k3id8nf59jh2sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
